@@ -1,0 +1,9 @@
+site_name: Arduino
+
+theme:
+  name: material
+  features: navigation.tabs
+
+nav:
+  - Introduction : index.md
+
